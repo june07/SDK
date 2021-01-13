@@ -950,10 +950,10 @@
   resolved "https://registry.yarnpkg.com/@sinonjs/text-encoding/-/text-encoding-0.7.1.tgz#8da5c6530915653f3a1f38fd5f101d8c3f8079c5"
   integrity sha512-+iTbntw2IZPb/anVDbypzfQa+ay64MW0Zo8aJ8gZPWMMK6/OubMVb6lUPMagqjOPnmtauXnFCACVl3O7ogjeqQ==
 
-"@tryghost/errors@0.2.6":
-  version "0.2.6"
-  resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-0.2.6.tgz#4554c97a1666e4db323d8c664a4df5a714f77452"
-  integrity sha512-hhCAijjK24jeuHbeT0KILSX+6nDOldgxvFfnIGJMdjThuWQGkwHhGaD9hkUXe7F8QgAvTL0J8FVG/f6fs5TwrA==
+"@tryghost/errors@0.2.7":
+  version "0.2.7"
+  resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-0.2.7.tgz#9c518d3656f5335c95912a5cbb5751a90964d96e"
+  integrity sha512-oonHLYJvwQoxKLjO57EWAQe4cIvqo6YtLOBt9Gz3oQFrDdxlLrqxVkt9X4v+IvOkcpW6Nw1lw9T4A0KLRcg4eA==
   dependencies:
     ghost-ignition "4.2.4"
     lodash "4.17.20"
