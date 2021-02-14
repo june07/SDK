@@ -1,3 +1,5 @@
+require('axios-debug-log')
+
 const axios = require('axios');
 const FormData = require('form-data');
 const fs = require('fs');
